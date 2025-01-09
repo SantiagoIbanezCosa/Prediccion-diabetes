@@ -1,4 +1,4 @@
-escripción del Proyecto
+Descripción del Proyecto
 
 Este proyecto realiza un análisis y modelado predictivo utilizando datos del archivo diabetes.csv.
 El objetivo es predecir la variable Outcome mediante diversas técnicas de preprocesamiento, exploración y modelado de datos.
